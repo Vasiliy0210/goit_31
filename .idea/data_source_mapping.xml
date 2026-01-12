@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/sql/crud_join.sql" value="dc23badb-8e9e-42e8-a6c6-3a958342e6a5" />
+    <file url="file://$PROJECT_DIR$/sql/ddl_example.sql" value="dc23badb-8e9e-42e8-a6c6-3a958342e6a5" />
+    <file url="file://$PROJECT_DIR$/sql/ddl_v2.sql" value="dc23badb-8e9e-42e8-a6c6-3a958342e6a5" />
+    <file url="file://$PROJECT_DIR$/sql/gbq/itv.sql" value="9e2699a6-ce52-4f67-8f8d-bda27c387ec1" />
+    <file url="file://$PROJECT_DIR$/sql/gbq/part_cluster.sql" value="9e2699a6-ce52-4f67-8f8d-bda27c387ec1" />
+    <file url="file://$PROJECT_DIR$/sql/gbq/part_cluster2.sql" value="9e2699a6-ce52-4f67-8f8d-bda27c387ec1" />
+    <file url="file://$PROJECT_DIR$/sql/gbq/struct_arr.sql" value="9e2699a6-ce52-4f67-8f8d-bda27c387ec1" />
+    <file url="file://$PROJECT_DIR$/sql/gbq/table.sql" value="9e2699a6-ce52-4f67-8f8d-bda27c387ec1" />
+    <file url="file://$PROJECT_DIR$/sql/gbq/temp.sql" value="9e2699a6-ce52-4f67-8f8d-bda27c387ec1" />
+    <file url="file://$PROJECT_DIR$/sql/mv_update_check.sql" value="dc23badb-8e9e-42e8-a6c6-3a958342e6a5" />
+    <file url="file://$PROJECT_DIR$/sql/strings.sql" value="54f82321-5493-455d-b511-fb45034f83d1" />
+    <file url="file://$PROJECT_DIR$/sql/test.sql" value="dc23badb-8e9e-42e8-a6c6-3a958342e6a5" />
+    <file url="file://$PROJECT_DIR$/sql/udf.sql" value="54f82321-5493-455d-b511-fb45034f83d1" />
+    <file url="file://$PROJECT_DIR$/sql/view.sql" value="dc23badb-8e9e-42e8-a6c6-3a958342e6a5" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/9e2699a6-ce52-4f67-8f8d-bda27c387ec1/console.sql" value="9e2699a6-ce52-4f67-8f8d-bda27c387ec1" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b65ee83a-7cd0-469d-a815-aa3442582660/console.sql" value="b65ee83a-7cd0-469d-a815-aa3442582660" />
+  </component>
+</project>

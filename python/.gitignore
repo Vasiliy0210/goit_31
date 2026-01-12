@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+headphones.ipynb
+
+# Environment variables
+.env
+
+# Data files
+*.csv
+
+# Generated plots and images
+*.png
